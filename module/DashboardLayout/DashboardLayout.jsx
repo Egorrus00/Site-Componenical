@@ -9,3 +9,4 @@ export function DashboardLayout({ children }) {
         height: '100vh',
         justifyContent: 'space-between'
     }}><Header /><Main>{children}</Main><Footer /></div>
+}
